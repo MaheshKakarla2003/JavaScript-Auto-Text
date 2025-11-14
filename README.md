@@ -7,7 +7,8 @@ This effect simulates the typing and erasing of multiple words — giving a dyna
 
 ## 🌐 Live Demo
 
-👉 [View the Project on GitHub Pages](https://maheshkakarla2003.github.io/CSS-JavaScript-Auto-Typing-Text-Animation-Effect/)
+👉 [View the Project on GitHub Pages](https://maheshkakarla2003.github.io/CSS-JavaScript-Auto-Typing-Text-Animation-Effect/](https://maheshkakarla2003.github.io/JavaScript-Auto-Text/
+)
 
 *(Click the link above to see the typing animation in action.)*
 
